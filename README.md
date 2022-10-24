@@ -739,6 +739,9 @@ print(x.word_split)
 - Q: What did I struggle with?
 - A: There were many while loops within the code, which meant that when putting all the functions together, I got lost which loop was not being broken in order for the code to proceed to the next line. After some troubleshooting, such as setting the conditions False from the very beginning, I was able to narrow down the culprit to a single while loop. Turn out, my last while loop conditional IF statements were not in the right order. 
 
+- Comment: I have created two scripts for the Hangman Project: 1. For the assignment and 2. A more informative version (in my opinion...). The below script is the 2nd version. For the 1st one, please refer to hangman.py file.
+
+
 ``` Python
 """
 # %%

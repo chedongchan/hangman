@@ -1,4 +1,8 @@
 # %%
+# I have my own more interactive version, made using the skills gained from tasks done throughout the project. 
+# This is the one trying my best to follow the TODOs as strictly as possible. 
+# In my version (found in milestones.py file and in documentation file), I print many more statements that inform the user how many lives there are how many unique letters remain.
+
 '''
 Make sure you complete all the TODOs in this file.
 The prints have to contain the same text as indicated, don't add any more prints,
@@ -225,4 +229,5 @@ if __name__ == '__main__':
     word_list = ['apple', 'banana', 'orange', 'pear', 'strawberry', 'watermelon']
     play_game(word_list)
 
-# %%
+
+# Code seems to run well. Prints the expected messages for each scenario. 
